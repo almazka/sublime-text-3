@@ -1,0 +1,24 @@
+[
+{
+"keys": ["f5"], "command": "goto_css_declaration",
+"args": {"goto": "next"}
+},
+{ "keys": ["f3"], "command": "jump_back" },
+{ "keys": ["f4"], "command": "jump_forward" },
+{
+"keys": ["f6"], "command": "goto_css_declaration",
+"args": {"goto": "prev"}
+},
+{ "keys": ["super+e"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "Evernote: "} },
+{ "keys": ["ctrl+shift+space"], "command": "save_evernote_note" },
+{ "keys": ["shift+space"], "command": "expand_region" },
+{
+"keys": ["shift+alt+space"],
+"command": "expand_region",
+"args": {"undo": true},
+"context": [{ "key": "expand_region_soft_undo" }]
+},
+{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+{ "keys": ["ctrl+tab"], "command": "insert_best_completion" },
+{ "keys": ["ctrl+shift+o"], "command": "expand_selection", "args": {"to": "tag"} }
+]

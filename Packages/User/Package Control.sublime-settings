@@ -1,0 +1,38 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ApplySyntax",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"Bower",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"Evernote",
+		"ExpandRegion",
+		"Git",
+		"Goto-CSS-Declaration",
+		"Hayaku - tools for writing CSS faster",
+		"HTML-CSS-JS Prettify",
+		"ImageMagick",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Sass",
+		"SASS Snippets",
+		"SideBarEnhancements",
+		"Sublimall",
+		"Sublime Text 3 Snippets",
+		"Syntax Highlighting for Sass",
+		"Tag",
+		"Terminal",
+		"Theme - Brogrammer",
+		"WebFont",
+		"WordPress",
+		"Zen Tabs"
+	]
+}

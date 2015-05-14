@@ -1,0 +1,16 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js"
+	},
+	"packages":
+	{
+		"bxslider": "https://github.com/almazka/bxslider/zipball/master",
+		"colorbox": "https://github.com/almazka/colorbox/zipball/master",
+		"filter-block": "https://github.com/almazka/filter-block/zipball/master",
+		"mixitup": "https://github.com/almazka/mix-it-up/zipball/master",
+		"pretty-gallery": "https://github.com/almazka/pretty-gallery/zipball/master",
+		"sass": "https://github.com/almazka/sass/zipball/master",
+		"slick": "https://github.com/almazka/slick/zipball/master"
+	}
+}
