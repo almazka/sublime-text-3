@@ -14,7 +14,9 @@
 	"icon_file_type_enable": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Color Highlighter",
+		"Terminal"
 	],
 	"indent_guide_options":
 	[

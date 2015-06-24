@@ -1,6 +1,8 @@
 {
 	"in_process_packages":
 	[
+		"Color Highlighter",
+		"Terminal"
 	],
 	"installed_packages":
 	[
@@ -24,6 +26,7 @@
 		"Package Control",
 		"Sass",
 		"SASS Snippets",
+		"SCSS",
 		"SideBarEnhancements",
 		"Sublimall",
 		"Sublime Text 3 Snippets",

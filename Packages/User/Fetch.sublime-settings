@@ -5,13 +5,14 @@
 	},
 	"packages":
 	{
+		"bxslider": "https://github.com/almazka/bxslider/zipball/master",
+		"colorbox": "https://github.com/almazka/colorbox/zipball/master",
+		"font-awesome": "https://github.com/almazka/font-awesome/zipball/master",
+		"mix-it-up": "https://github.com/almazka/mix-it-up/zipball/master",
+		"my-wp": "https://github.com/almazka/my-wp/zipball/master",
+		"pretty-gallery": "https://github.com/almazka/pretty-gallery/zipball/master",
 		"quicksand": "https://github.com/almazka/filter-block/zipball/master",
 		"sass": "https://github.com/almazka/sass/zipball/master",
-		"slick": "https://github.com/almazka/slick/zipball/master",
-		"my-wp": "https://github.com/almazka/my-wp/zipball/master",
-		"mix-it-up": "https://github.com/almazka/mix-it-up/zipball/master",
-		"pretty-gallery": "https://github.com/almazka/pretty-gallery/zipball/master",
-		"colorbox": "https://github.com/almazka/colorbox/zipball/master",
-		"bxslider": "https://github.com/almazka/bxslider/zipball/master"
+		"slick": "https://github.com/almazka/slick/zipball/master"
 	}
 }

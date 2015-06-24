@@ -1,6 +1,32 @@
 {
 	"folder_history":
 	[
+		"/home/almazka/workspace/nexus-site",
+		"/home/almazka/workspace/nexus.loc",
+		"/home/almazka/workspace/intent-site/wp-content/themes/barrister-child",
+		"/home/almazka/workspace/intent-site",
+		"/home/almazka/workspace/nexus",
+		"/etc/apache2",
+		"/home/almazka/workspace/intent.ru/wp-content/plugins/custom-post-type-ui",
+		"/home/almazka/workspace/site.com/wp_projects/Intent.com",
+		"/home/almazka/workspace/intent.ru/wp-content/plugins/VKPB",
+		"/home/almazka/workspace/intent.ru/wp-content/plugins/superpage",
+		"/home/almazka/workspace/portal-ui.ru",
+		"/home/almazka/workspace/display.ru",
+		"/home/almazka/workspace/intent.ru",
+		"/home/almazka/workspace/intent",
+		"/home/almazka/workspace/site.com/personalhomepage (backup)",
+		"/home/almazka/workspace/site.com/personalhomepage",
+		"/home/almazka/workspace/site.com/csv",
+		"/home/almazka/workspace/csv",
+		"/media/almazka/473266243354C9F6/[Специалист] PHP. Уровень 3. Профессиональная разработка на PHP5",
+		"/media/almazka/473266243354C9F6/[Специалист] PHP. Уровень 1. Основы создания сайтов",
+		"/media/almazka/473266243354C9F6/[Специалист] PHP. Уровень 2. Разработка web - сайтов и взаимодействие с MySQL",
+		"/home/almazka/workspace/testalma",
+		"/home/almazka/workspace/adaptive",
+		"/home/almazka/workspace/personalhomepage",
+		"/home/almazka/workspace/my-wp",
+		"/home/almazka/workspace/almazka-master.ru",
 		"/home/almazka/workspace/site.com/gallery",
 		"/home/almazka/workspace/almazka_project/MyPortfolio",
 		"/home/almazka/Dropbox/web-master/jquery.fancybox-1.3.4",
@@ -25,7 +51,7 @@
 		"/home/almazka/workspace/almazka_project/Portal_UI"
 	],
 	"last_version": 3083,
-	"last_window_id": 14,
+	"last_window_id": 36,
 	"log_indexing": false,
 	"settings":
 	{
@@ -37,296 +63,336 @@
 				"selected_items":
 				[
 					[
-						"tr",
-						"transition"
+						"GF",
+						"GF_GROUP_ID"
 					],
 					[
-						"spa",
-						"span	Tag"
+						"G",
+						"GF_GROUP_NAME"
 					],
 					[
-						"bl",
-						"blank"
+						"так",
+						"таксономии"
 					],
 					[
-						"p",
-						"pix.png	w:1 h:1"
+						"plu",
+						"plugins_url"
 					],
 					[
-						"app",
-						"appendTo"
+						"wp_reg",
+						"wp_register_style"
 					],
 					[
-						"ac",
-						"active"
+						"wp_re",
+						"wp_register"
 					],
 					[
-						"cont",
-						"content"
+						"cate",
+						"category"
 					],
 					[
-						"g",
-						"grey-line.png	w:83 h:12"
+						"for",
+						"foreach	foreach …"
 					],
 					[
-						"co",
-						"color"
+						"op",
+						"opacity	opacity()"
 					],
 					[
-						"j",
-						"jQuery"
-					],
-					[
-						"fo",
-						"fone-white.png	w:82 h:10"
-					],
-					[
-						"h",
-						"href	Attr"
-					],
-					[
-						"conta",
-						"contacts"
-					],
-					[
-						"ma",
-						"mail"
-					],
-					[
-						"span",
-						"span"
-					],
-					[
-						"top",
-						"top"
-					],
-					[
-						"di",
-						"display.jpg	w:300 h:320"
-					],
-					[
-						"im",
-						"img"
+						"opact",
+						"opacity"
 					],
 					[
 						"b",
 						"background"
 					],
 					[
-						"E",
-						"Ever"
+						"transp",
+						"transparent"
 					],
 					[
-						"colo",
-						"colorbox.css"
+						"cust",
+						"custom_side"
 					],
 					[
-						"fan",
-						"jquery.fancybox-1.3.4.pack.js"
+						"my_",
+						"my_scripts"
 					],
 					[
-						"color",
-						"colorbox"
+						"sty",
+						"styles_scripts	(functions.php)"
 					],
 					[
-						"ho",
-						"sweethome.jpg	w:350 h:233"
+						"wi",
+						"widget	(functions.php)"
 					],
 					[
-						"fu",
-						"function"
-					],
-					[
-						"th",
-						"this"
-					],
-					[
-						"z",
-						"z	z"
-					],
-					[
-						"ex",
-						"extend	@extend"
-					],
-					[
-						"blog",
-						"blog.html"
-					],
-					[
-						"Photo",
-						"Photography"
-					],
-					[
-						"jquery",
-						"jquery.quicksand.js"
-					],
-					[
-						"td",
-						"td-n	text-decoration: none;"
-					],
-					[
-						"pad",
-						"padding"
-					],
-					[
-						"font-s",
-						"font-size"
-					],
-					[
-						"sli",
-						"slide"
-					],
-					[
-						"con",
-						"container"
-					],
-					[
-						"c",
-						"class	Attr"
-					],
-					[
-						"no",
-						"no-repeat"
-					],
-					[
-						"u",
-						"url()"
-					],
-					[
-						"img",
-						"img	Tag"
-					],
-					[
-						"sl",
-						"slMenu"
-					],
-					[
-						"s",
-						"smile.jpg	w:300 h:220"
-					],
-					[
-						"butt",
-						"button"
-					],
-					[
-						"text",
-						"textarea	Tag"
-					],
-					[
-						"inp",
-						"inp:text	HTML - Input:text"
-					],
-					[
-						"for",
-						"form"
-					],
-					[
-						"m",
-						"map.jpg	w:1400 h:500"
-					],
-					[
-						"ar",
-						"arrowMini.png	w:7 h:10"
-					],
-					[
-						"list",
-						"list	list-style-type"
-					],
-					[
-						"ser",
-						"services"
-					],
-					[
-						"ri",
-						"right"
-					],
-					[
-						"vi",
-						"video"
+						"print",
+						"print_r(${1	(ptint_r_pre.sublime-snippet)"
 					],
 					[
 						"tit",
 						"title"
 					],
 					[
-						"aft",
-						"after"
+						"ar",
+						"args"
 					],
 					[
-						"qu",
-						"question"
+						"arr",
+						"arr2	new_big_array"
 					],
 					[
-						"shi",
-						"shift+alt+space"
+						"pri",
+						"print_r($posttypes"
 					],
 					[
-						"af",
-						"after"
+						"post",
+						"postname"
 					],
 					[
-						"br",
-						"border-radius"
+						"po",
+						"postname"
 					],
 					[
-						"au",
-						"auto"
+						"postt",
+						"posttype"
 					],
 					[
-						"pi",
-						"pic5.jpg	w:300 h:200"
+						"pos",
+						"posttypes"
 					],
 					[
-						"f",
-						"fonts/"
+						"get_post_ty",
+						"get_post_types"
 					],
 					[
-						"bor",
-						"border"
+						"line",
+						"lineimage	(products-page.php)"
+					],
+					[
+						"B",
+						"BLOCK_NAME"
+					],
+					[
+						"BLO",
+						"BLOCK_NAME	(settings.php)"
+					],
+					[
+						"get_",
+						"get_field	(products-page.php)"
+					],
+					[
+						"SPP",
+						"SPPAGE_PLUGIN_ID"
+					],
+					[
+						"su",
+						"superpage_settings_menu"
+					],
+					[
+						"page",
+						"paged"
+					],
+					[
+						"thu",
+						"thumbnail	(functions.php)"
+					],
+					[
+						"the",
+						"the_post"
+					],
+					[
+						"the_c",
+						"the_content"
+					],
+					[
+						"get_post",
+						"get_posts"
+					],
+					[
+						"get",
+						"get_footer"
+					],
+					[
+						"to",
+						"top"
+					],
+					[
+						"me",
+						"mediaqueries.css"
+					],
+					[
+						"h",
+						"hover"
+					],
+					[
+						"as",
+						"astronavt2.png	w:342 h:563"
+					],
+					[
+						"astro",
+						"astronavt"
+					],
+					[
+						"de",
+						"description"
+					],
+					[
+						"nav",
+						"navbar"
+					],
+					[
+						"cont",
+						"contacts"
+					],
+					[
+						"за",
+						"заказать"
+					],
+					[
+						"sect",
+						"section"
+					],
+					[
+						"кач",
+						"качество"
+					],
+					[
+						"ro",
+						"rocket.png	w:159 h:159"
+					],
+					[
+						"J",
+						"js-скрипты"
+					],
+					[
+						"ма",
+						"машин"
+					],
+					[
+						"Com",
+						"Compass"
+					],
+					[
+						"HTM",
+						"HTML5"
+					],
+					[
+						"сот",
+						"сотрудничества"
+					],
+					[
+						"Вам",
+						"Вами"
+					],
+					[
+						"на",
+						"нашего"
+					],
+					[
+						"об",
+						"обращайтесь"
+					],
+					[
+						"вы",
+						"выполнении"
+					],
+					[
+						"от",
+						"отзывчивости"
+					],
+					[
+						"дел",
+						"дело"
+					],
+					[
+						"све",
+						"сверстанные"
+					],
+					[
+						"у",
+						"ума"
+					],
+					[
+						"верс",
+						"верстку"
+					],
+					[
+						"P",
+						"PSD"
+					],
+					[
+						"сай",
+						"сайты"
+					],
+					[
+						"сло",
+						"сложности"
+					],
+					[
+						"мн",
+						"много"
+					],
+					[
+						"св",
+						"сверстано"
+					],
+					[
+						"тре",
+						"трех"
+					],
+					[
+						"Веб",
+						"Веб-версткой"
+					],
+					[
+						"мо",
+						"мой"
+					],
+					[
+						"При",
+						"Приветствую"
+					],
+					[
+						"К",
+						"Контакты"
+					],
+					[
+						"вер",
+						"верстку"
+					],
+					[
+						"ра",
+						"работы"
+					],
+					[
+						"con",
+						"container"
+					],
+					[
+						"sec",
+						"section"
 					],
 					[
 						"sp",
 						"sprite"
 					],
 					[
-						"bo",
-						"border-color"
+						"ex",
+						"extend	@extend"
 					],
 					[
-						"bi",
-						"bigContacts"
-					],
-					[
-						"w",
-						"wrap"
-					],
-					[
-						"map",
-						"map_point.png	w:90 h:120"
-					],
-					[
-						"poi",
-						"point"
-					],
-					[
-						"ib",
-						"inline-block"
-					],
-					[
-						"borr",
-						"border-radius"
-					],
-					[
-						"pe",
-						"people4.png	w:137 h:137"
-					],
-					[
-						"a",
-						"alt	Attr"
-					],
-					[
-						"i",
+						"im",
 						"img/"
+					],
+					[
+						"уве",
+						"увеличения"
+					],
+					[
+						"ссы",
+						"ссылка"
 					]
 				]
 			},
@@ -337,58 +403,53 @@
 			"command_palette":
 			{
 				"height": 400.0,
-				"last_filter": "f",
+				"last_filter": "php",
 				"selected_items":
 				[
 					[
-						"f",
-						"Fetch: Package"
+						"php",
+						"Set Syntax: PHP"
 					],
 					[
-						"package",
-						"Preferences: Package Control Settings – Default"
-					],
-					[
-						"hay",
-						"Hayaku: Expand abbreviation"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"con",
-						"Package Control: Remove Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"control",
-						"Package Control: Remove Package"
-					],
-					[
-						"fe",
-						"Fetch: Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
+						"ht",
+						"Set Syntax: HTML"
 					],
 					[
 						"inst",
 						"Package Control: Install Package"
+					],
+					[
+						"F",
+						"Fetch: Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"fe",
+						"Fetch: Manage"
+					],
+					[
+						"Snippet: tit",
+						"Snippet: tit"
 					]
 				],
-				"width": 469.0
+				"width": 472.0
 			},
 			"console":
 			{
-				"height": 139.0,
+				"height": 0.0,
 				"history":
 				[
-					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
 			"distraction_free":
@@ -402,82 +463,78 @@
 			},
 			"file_history":
 			[
-				"/home/almazka/workspace/almazka_project/MyPortfolio/js/jquery.quicksand-1.4.js",
-				"/home/almazka/workspace/almazka_project/MyPortfolio/js/toscript.js",
-				"/home/almazka/workspace/sublime_snippets/co.sublime-snippet",
-				"/home/almazka/.config/sublime-text-3/Packages/User/co.sublime-snippet",
-				"/home/almazka/workspace/almazka_project/MyPortfolio/js/jquery.quicksand.js",
-				"/home/almazka/workspace/almazka_project/MyPortfolio/js/isotope.pkgd.min.js",
-				"/home/almazka/workspace/almazka_project/MyPortfolio/img/grey-line.png",
-				"/home/almazka/workspace/almazka_project/MyPortfolio/img/fone-white2.png",
-				"/home/almazka/workspace/almazka_project/MyPortfolio/img/fone-white.png",
-				"/home/almazka/workspace/almazka_project/MyPortfolio/img/sprite/skype.png",
-				"/home/almazka/workspace/almazka_project/MyPortfolio/img/sprite/mail.png",
-				"/home/almazka/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
-				"/home/almazka/.config/sublime-text-3/Packages/User/z.sublime-snippet",
-				"/home/almazka/workspace/sublime_snippets/tit.sublime-snippet",
-				"/home/almazka/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
-				"/home/almazka/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
-				"/home/almazka/workspace/almazka_project/Intent/img/map.jpg",
-				"/home/almazka/workspace/almazka_project/Intent/js/scripts.js",
-				"/home/almazka/workspace/almazka_project/Intent/blog.html",
-				"/home/almazka/workspace/almazka_project/Intent/portfolio.html",
-				"/home/almazka/Dropbox/web-master/PSD и JPG/Intent_project/psd/portfolio.psd",
-				"/home/almazka/workspace/almazka_project/Intent/style/template.css",
-				"/home/almazka/workspace/almazka_project/Intent/img/blog-title.jpg",
-				"/home/almazka/workspace/almazka_project/Intent/contact.html",
-				"/home/almazka/workspace/almazka_project/Intent/sass/slick-theme.scss",
-				"/home/almazka/workspace/almazka_project/Intent/js/jquery-1.11.1.min.js",
-				"/home/almazka/workspace/almazka_project/Intent/js/slick.min.js",
-				"/home/almazka/workspace/almazka_project/Intent/js/filter.js",
-				"/home/almazka/workspace/almazka_project/Intent/img/sprite/larrow.png",
-				"/home/almazka/workspace/almazka_project/Intent/img/sprite/awesome.png",
-				"/home/almazka/workspace/almazka_project/Intent/sass/slick-theme2.scss",
-				"/home/almazka/workspace/almazka_project/Intent/css/slick-theme.css",
-				"/home/almazka/Загрузки/Госуслуги.txt",
-				"/home/almazka/workspace/almazka_project/Intent/img/image1.jpg",
-				"/home/almazka/Dropbox/web-master/imageGallery/index.html",
-				"/home/almazka/Dropbox/web-master/imageGallery/css/demo.css",
-				"/home/almazka/workspace/almazka_project/Intent/img/sprite/twitter.png",
-				"/home/almazka/workspace/almazka_project/Intent/img/sprite/dribble.png",
-				"/home/almazka/workspace/almazka_project/Intent/img/sprite/fb.png",
-				"/home/almazka/workspace/almazka_project/Intent/img/sprite/rss.png",
-				"/home/almazka/workspace/almazka_project/Intent/sass/style.scss",
-				"/home/almazka/workspace/almazka_project/Display/img/map.jpg",
-				"/home/almazka/workspace/almazka_project/Display/contact.html",
-				"/home/almazka/workspace/almazka_project/Display/about.html",
-				"/home/almazka/workspace/almazka_project/Display/index.html",
-				"/home/almazka/workspace/almazka_project/Display/img/sprite/websites.png",
-				"/home/almazka/workspace/almazka_project/Display/img/sprite/seo.png",
-				"/home/almazka/workspace/almazka_project/Display/img/sprite/photography.png",
-				"/home/almazka/workspace/almazka_project/MyPortfolio/отличный пример.html",
-				"/home/almazka/workspace/almazka_project/Display/img/sprite/applications_hover.png",
-				"/home/almazka/workspace/almazka_project/Display/.sass-cache/c62b544706ba17d45d8efb4c9038311a9f7032bd/style.scssc",
-				"/home/almazka/workspace/almazka_project/Display/img/man.jpg",
-				"/home/almazka/workspace/almazka_project/Display/img/sprite/arrowl.png",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/custom-type-custom-fields/CTCF.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/functions.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/gallery-filter/css/prettyPhoto.css",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/js/scripts.js",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/gallery-filter/js/scripts.js",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/filter-gallery-widget/filter-gallery-widget.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/posts-view-widget/posts-view-widget.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/filter-gallery/filter-gallery-widget",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/sidebar.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/posts-view-widget/readme.txt",
+				"/home/almazka/workspace/site.com/wp/wp.html",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/index.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/products-page.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/footer.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/custom-type-custom-fields/readme.txt",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/custom-post-type-ui/readme.txt",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/widget-creator/widget-creator.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/widget-creator/readme.txt",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/superpage/CTCF.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/superpage/readme.txt",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/superpage/superpage.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/superpage/settings.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/advanced-custom-fields/readme.txt",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/advanced-custom-fields/README.md",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/advanced-recent-posts-widget/advanced-recent-posts-widget.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/style.css",
+				"/home/almazka/workspace/intent.ru/wp-includes/default-widgets.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/advanced-recent-posts-widget/includes/advanced-recent-posts-widget-display.php",
+				"/home/almazka/.config/sublime-text-3/Packages/User/ptint_r_pre.sublime-snippet",
+				"/home/almazka/.config/sublime-text-3/Packages/User/extract().sublime-snippet",
+				"/home/almazka/.config/sublime-text-3/Packages/User/new_big_array.sublime-snippet",
+				"/home/almazka/.config/sublime-text-3/Packages/User/instanse().sublime-snippet",
+				"/home/almazka/.config/sublime-text-3/Packages/User/new_array.sublime-snippet",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/style.scss",
+				"/media/almazka/473266243354C9F6/добавить в файл wp.php",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/js/scripts.js",
+				"/home/almazka/workspace/mix-it-up/js/toscripts.js",
+				"/home/almazka/workspace/almazka-master.ru/index.php",
+				"/home/almazka/workspace/intent.ru/wp-config.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/page-blog.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/advanced-custom-fields/core/api.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/header.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/blog.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/contact.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/portfolio.php",
+				"/home/almazka/workspace/almazka_project/Intent/index.html",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/mediaqueries.scss",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/mediaqueries.css",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/mediaqueries.sass",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/style.css",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/sidebar.php",
+				"/home/almazka/.config/sublime-text-3/Packages/User/Fetch.sublime-settings",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/config.rb",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/functions.php",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/sass/style.scss",
+				"/home/almazka/workspace/almazka-master.ru/wp-config.php",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/img/bg-header.png",
+				"/home/almazka/workspace/personalhomepage/.htaccess",
+				"/home/almazka/workspace/personalhomepage/index.html",
+				"/home/almazka/workspace/personalhomepage/index.php",
+				"/home/almazka/Загрузки/almazka-master.sql",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/index.php",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/header.php",
+				"/home/almazka/234.php",
 				"/home/almazka/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/almazka/workspace/almazka_project/Display/img/sprite/link.png",
-				"/home/almazka/workspace/almazka_project/Display/img/pic1.jpg",
-				"/home/almazka/workspace/almazka_project/Display/img/sprite/rss.png",
-				"/home/almazka/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/almazka/workspace/almazka_project/Display/img/slider.png",
-				"/home/almazka/workspace/sass/sass/style.scss",
-				"/home/almazka/workspace/test/test.php",
-				"/home/almazka/workspace/almazka_project/Portal_UI/img/sprite/mail.png",
-				"/home/almazka/workspace/almazka_project/Portal_UI/.sass-cache/366334e263b26ae321cc84c9f7c20daf9249a473/style.scssc",
-				"/home/almazka/workspace/almazka_project/Portal_UI/.sass-cache/bb2d17f74d2a9af09ae284d05117b54a58793ca8/%042.pngc",
-				"/home/almazka/workspace/almazka_project/Portal_UI/.sass-cache/f5a7c4e688796787d470dd399fd23d1605677a5d/%042.pngc",
-				"/home/almazka/workspace/almazka_project/Portal_UI/.sass-cache/2bbe3148ef0552527c4d11a87fba377aea2b69ee/style.scssc",
-				"/home/almazka/workspace/almazka_project/Portal_UI/img/sprite/grayFb.png",
-				"/home/almazka/workspace/almazka_project/Portal_UI/img/sprite/grayIn.png",
-				"/home/almazka/workspace/almazka_project/Portal_UI/img/sprite/grayInst.png",
-				"/home/almazka/workspace/almazka_project/Portal_UI/img/sprite/grayTw.png",
-				"/home/almazka/workspace/almazka_project/Portal_UI/img/sprite/mapPlace.png",
-				"/home/almazka/workspace/almazka_project/Portal_UI/img/sprite/mapPhone.png",
-				"/home/almazka/workspace/almazka_project/Portal_UI/img/sprite/mapMail.png",
-				"/home/almazka/workspace/almazka_project/Portal_UI/img/sprite/grayFacebook.png",
-				"/home/almazka/workspace/almazka_project/Portal_UI/img/sprite/grayTwitter.png",
-				"/home/almazka/workspace/almazka_project/Portal_UI/img/sprite/grayInstagram.png"
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/new/index.php",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/new/config.rb",
+				"/home/almazka/workspace/almazka-master.ru/sass/style.scss",
+				"/home/almazka/workspace/my-wp/wp-content/themes/new/index.html",
+				"/etc/apache2/apache2.conf",
+				"/home/almazka/workspace/slick/sass/slick-theme.scss",
+				"/home/almazka/workspace/site.com/js/find-str.php"
 			],
 			"find":
 			{
@@ -488,10 +545,14 @@
 				"height": 104.0,
 				"where_history":
 				[
-					"/home/almazka/workspace/almazka_project/Intent/js",
-					"/home/almazka/workspace/almazka_project/Intent/",
-					"/home/almazka/workspace/almazka_project/Display/",
-					"/home/almazka/workspace/almazka_project/Portal_UI/"
+					"/home/almazka/workspace/intent.ru/wp-content/themes/intent/",
+					"<current file>",
+					"/home/almazka/workspace/intent.ru/",
+					"<current file>",
+					"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/",
+					"<current file>",
+					"/home/almazka/workspace/almazka-master.ru",
+					"<current file>"
 				]
 			},
 			"find_state":
@@ -499,102 +560,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"Увеличить скриншот",
-					"Перейти на сайт",
-					"target",
-					"Перейти на сайт",
-					"Перейти",
-					"<h4>Portal UI",
-					"<h4>Intent",
-					"<h4>Display",
-					"h4",
-					"h1",
-					"h4n",
-					"4",
-					"Uh4pan",
-					"square",
-					"live",
-					"siblings",
-					"data",
-					"tags",
-					"siblings",
-					"h2",
-					"mdash",
-					".skype",
-					"img",
-					"rel",
-					"a",
+					"Опции",
+					"register_setting",
+					"settings_setting",
+					"settings_section",
+					"settings_sections",
+					"do_",
+					"get_option",
+					"register_set",
+					"RE",
+					"<body",
+					"Опции га",
+					"gf_option_group",
+					"register_setting",
+					"Products",
+					"products",
+					"Products",
+					"pvw",
+					"<? echo",
+					"<?=",
+					"jquery",
+					"array",
+					"excerpt",
+					"Advanced Recent Posts Widget",
+					"Widget Post Creator Widget",
+					"Advanced Recent Posts ",
+					"render_sppage_settings_page",
+					"sppage",
+					"sppa",
+					"sppage",
+					"заголово",
+					"enqueue",
+					"slick",
+					"js/slick",
+					"js/",
+					"js",
+					" 'js",
+					"'js",
+					"<pre>",
+					"pre>",
+					"excerpt",
+					"accordion",
+					"get_the_excerpt",
+					"excerpt_readmore",
+					"get_the_excerpt",
+					"excerpt",
+					"get_the_excerpt",
+					"excerpt",
+					"$new_excerpt_length",
+					"count",
+					"the_permalink",
+					"sizethumb",
+					"custom_query_posts",
+					"setup_postdata",
+					"widgettitle",
+					"type",
 					"title",
-					"target",
-					"hidden",
-					"ul",
-					"big-",
-					"big",
-					"Everything",
-					"data",
-					"rel",
-					"ul",
-					"selected",
-					"rel",
-					"data",
-					".menu",
+					"dropdown",
+					"type",
+					"title",
+					"post",
+					"title",
+					"cat",
+					"get_categories",
+					"o",
+					"get_categories",
+					"categories",
+					"popular",
+					"wi",
+					"div",
+					"gallery-are",
+					"#353535",
+					"extra_fields_box_page_func",
+					"color",
+					"check",
+					"function the_field",
+					"acf_register_field_group",
+					"function register_field_group",
+					";\n",
+					"')\n",
+					"src=\"img/",
+					"href=\"img/",
+					"url(../",
+					"url(\"../",
+					"<img",
+					"small",
+					"roboto",
+					"div",
+					"footer",
 					"filter",
-					"live",
-					"webkitRequestAnimationFrame",
-					"Everything",
-					"conta",
-					"text-decoration: none;",
-					"		text-decoration: none;",
-					"li",
-					"coloumn",
-					"foot",
-					";\n",
-					"exte",
-					"span",
-					"helvet",
-					"active",
-					"<button",
-					"button",
-					"li",
-					"big",
-					"wrapper",
-					"helvetica",
-					"helv",
-					"neu",
-					"nue",
-					"nav",
-					"\"></",
-					"footer",
-					"div class=\"footer\"",
-					"footer",
-					"video-block",
-					"-->\n",
-					"button",
-					"uppercase",
-					";\n",
-					"video",
-					"text",
-					"PTSans",
-					"Novecetto",
-					"ul",
-					"li",
-					"ul",
-					"social",
-					"i",
-					"sprite-Grey",
-					"$Grey",
-					"Grey",
-					"gray",
-					"Gray",
-					"social",
-					"sprite-trangle",
+					"navbar",
+					"navbar-",
+					"%;",
+					"descr",
+					"navbar",
+					"media",
+					"#FFF",
+					"contai",
+					"adaptive",
+					"item",
+					"p",
+					"btn",
 					":hover",
-					"places",
-					"i",
-					">\n",
-					"\n					",
-					">\n",
-					"<span>\n							<i></i>\n							<i></i>\n							<i></i>\n							<i></i></span>"
+					"btn",
+					"mail",
+					"div",
+					"container",
+					"class=\"wrap\"",
+					"wrap",
+					"container",
+					"wrap",
+					"media",
+					"rgba",
+					"span",
+					"pink",
+					"rgba",
+					"sprite-sk",
+					"/img/",
+					"./img/",
+					"style.css",
+					"header",
+					"utf8mb4",
+					"utf8mb4_unicode_ci",
+					"COLLATE=utf8mb4_unicode_ci",
+					"COLLATE utf8mb4_unicode_ci",
+					"COLLATE",
+					"COLLATE = utf8mb4_unicode_ci",
+					"utf8mb4_unicode_ci",
+					"COLLATE"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -602,12 +695,23 @@
 				"regex": false,
 				"replace_history":
 				[
-					"div id=\"footer\"",
-					"media-block",
-					"sprite-grey",
-					"$grey",
-					"grey",
-					"Grey"
+					"Custom Type Custom Fields",
+					"Posts view Widget",
+					"Widget Post Creator ",
+					"$darkGrey",
+					"src=\"http://intent.ru/wp-content/themes/intent/img/",
+					"href=\"http://intent.ru/wp-content/themes/intent/img/",
+					"url(./",
+					"url(\"./",
+					"class=\"container\"",
+					"container",
+					"img/",
+					"/img/",
+					"<?php bloginfo('template_url') ?>/img/",
+					"./img",
+					"<?php bloginfo('template_url') ?>/img",
+					"/img",
+					"<?php bloginfo('template_url') ?>/img"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -621,12 +725,16 @@
 			},
 			"input":
 			{
-				"height": 130.0
+				"height": 35.0
 			},
 			"menu_visible": true,
 			"output.find_results":
 			{
 				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 116.0
 			},
 			"pinned_build_system": "",
 			"replace":
@@ -646,24 +754,28 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "",
+				"last_filter": "n",
 				"selected_items":
 				[
 					[
+						"n",
+						"~/workspace/projects/nexus.sublime-project"
+					],
+					[
 						"",
-						"~/workspace/projects/site.com.sublime-project"
+						"~/workspace/projects/nexus.sublime-project"
 					],
 					[
-						"fi",
-						"~/workspace/projects/filter-block.sublime-project"
+						"al",
+						"~/workspace/projects/almazka-master.sublime-project"
 					],
 					[
-						"si",
-						"~/workspace/projects/site.com.sublime-project"
+						"wp",
+						"~/workspace/projects/new-wp.sublime-project"
 					],
 					[
-						"sa",
-						"~/workspace/projects/sass.sublime-project"
+						"a",
+						"~/workspace/projects/adaptive.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -681,7 +793,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 191.0,
+			"side_bar_width": 241.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -697,6 +809,338 @@
 				"selected_items":
 				[
 					[
+						"php",
+						"phpinfo"
+					],
+					[
+						"e",
+						"echo	echo \"…\""
+					],
+					[
+						"GF",
+						"GF_GROUP_ID"
+					],
+					[
+						"G",
+						"GF_GROUP_NAME"
+					],
+					[
+						"так",
+						"таксономии"
+					],
+					[
+						"plu",
+						"plugins_url"
+					],
+					[
+						"wp_reg",
+						"wp_register_style"
+					],
+					[
+						"wp_re",
+						"wp_register"
+					],
+					[
+						"cate",
+						"category"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"op",
+						"opacity	opacity()"
+					],
+					[
+						"opact",
+						"opacity"
+					],
+					[
+						"b",
+						"background"
+					],
+					[
+						"transp",
+						"transparent"
+					],
+					[
+						"cust",
+						"custom_side"
+					],
+					[
+						"my_",
+						"my_scripts"
+					],
+					[
+						"sty",
+						"styles_scripts	(functions.php)"
+					],
+					[
+						"wi",
+						"widget	(functions.php)"
+					],
+					[
+						"print",
+						"print_r(${1	(ptint_r_pre.sublime-snippet)"
+					],
+					[
+						"tit",
+						"title"
+					],
+					[
+						"ar",
+						"args"
+					],
+					[
+						"arr",
+						"arr2	new_big_array"
+					],
+					[
+						"pri",
+						"print_r($posttypes"
+					],
+					[
+						"post",
+						"postname"
+					],
+					[
+						"po",
+						"postname"
+					],
+					[
+						"postt",
+						"posttype"
+					],
+					[
+						"pos",
+						"posttypes"
+					],
+					[
+						"get_post_ty",
+						"get_post_types"
+					],
+					[
+						"line",
+						"lineimage	(products-page.php)"
+					],
+					[
+						"B",
+						"BLOCK_NAME"
+					],
+					[
+						"BLO",
+						"BLOCK_NAME	(settings.php)"
+					],
+					[
+						"get_",
+						"get_field	(products-page.php)"
+					],
+					[
+						"SPP",
+						"SPPAGE_PLUGIN_ID"
+					],
+					[
+						"su",
+						"superpage_settings_menu"
+					],
+					[
+						"page",
+						"paged"
+					],
+					[
+						"thu",
+						"thumbnail	(functions.php)"
+					],
+					[
+						"the",
+						"the_post"
+					],
+					[
+						"the_c",
+						"the_content"
+					],
+					[
+						"get_post",
+						"get_posts"
+					],
+					[
+						"get",
+						"get_footer"
+					],
+					[
+						"to",
+						"top"
+					],
+					[
+						"me",
+						"mediaqueries.css"
+					],
+					[
+						"h",
+						"hover"
+					],
+					[
+						"as",
+						"astronavt2.png	w:342 h:563"
+					],
+					[
+						"astro",
+						"astronavt"
+					],
+					[
+						"de",
+						"description"
+					],
+					[
+						"nav",
+						"navbar"
+					],
+					[
+						"cont",
+						"contacts"
+					],
+					[
+						"за",
+						"заказать"
+					],
+					[
+						"sect",
+						"section"
+					],
+					[
+						"кач",
+						"качество"
+					],
+					[
+						"ro",
+						"rocket.png	w:159 h:159"
+					],
+					[
+						"J",
+						"js-скрипты"
+					],
+					[
+						"ма",
+						"машин"
+					],
+					[
+						"Com",
+						"Compass"
+					],
+					[
+						"HTM",
+						"HTML5"
+					],
+					[
+						"сот",
+						"сотрудничества"
+					],
+					[
+						"Вам",
+						"Вами"
+					],
+					[
+						"на",
+						"нашего"
+					],
+					[
+						"об",
+						"обращайтесь"
+					],
+					[
+						"вы",
+						"выполнении"
+					],
+					[
+						"от",
+						"отзывчивости"
+					],
+					[
+						"дел",
+						"дело"
+					],
+					[
+						"све",
+						"сверстанные"
+					],
+					[
+						"у",
+						"ума"
+					],
+					[
+						"верс",
+						"верстку"
+					],
+					[
+						"P",
+						"PSD"
+					],
+					[
+						"сай",
+						"сайты"
+					],
+					[
+						"сло",
+						"сложности"
+					],
+					[
+						"мн",
+						"много"
+					],
+					[
+						"св",
+						"сверстано"
+					],
+					[
+						"тре",
+						"трех"
+					],
+					[
+						"Веб",
+						"Веб-версткой"
+					],
+					[
+						"мо",
+						"мой"
+					],
+					[
+						"При",
+						"Приветствую"
+					],
+					[
+						"К",
+						"Контакты"
+					],
+					[
+						"вер",
+						"верстку"
+					],
+					[
+						"ра",
+						"работы"
+					],
+					[
+						"con",
+						"container"
+					],
+					[
+						"sec",
+						"section"
+					],
+					[
+						"sp",
+						"sprite"
+					],
+					[
+						"ex",
+						"extend	@extend"
+					],
+					[
+						"im",
+						"img/"
+					],
+					[
 						"уве",
 						"увеличения"
 					],
@@ -709,50 +1153,18 @@
 			"buffers":
 			[
 				{
-					"file": "/home/almazka/workspace/site.com/sass/typical.scss",
+					"file": "/home/almazka/Загрузки/bergamot.sql",
 					"settings":
 					{
-						"buffer_size": 7076,
+						"buffer_size": 2074880,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/almazka/workspace/site.com/Jquery/myjquery.js",
+					"file": "/home/almazka/workspace/nexus-site/wp-config.php",
 					"settings":
 					{
-						"buffer_size": 35391,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/almazka/workspace/site.com/js/js.js",
-					"settings":
-					{
-						"buffer_size": 77633,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/home/almazka/workspace/site.com/wp/wp.html",
-					"settings":
-					{
-						"buffer_size": 13127,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/etc/apache2/apache2.conf",
-					"settings":
-					{
-						"buffer_size": 7472,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/almazka/workspace/site.com/css/css.css",
-					"settings":
-					{
-						"buffer_size": 27396,
+						"buffer_size": 4650,
 						"line_ending": "Unix"
 					}
 				}
@@ -765,9 +1177,37 @@
 			"command_palette":
 			{
 				"height": 400.0,
-				"last_filter": "fe",
+				"last_filter": "php",
 				"selected_items":
 				[
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"F",
+						"Fetch: Package"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
 					[
 						"fe",
 						"Fetch: Manage"
@@ -777,7 +1217,7 @@
 						"Snippet: tit"
 					]
 				],
-				"width": 547.0
+				"width": 472.0
 			},
 			"console":
 			{
@@ -797,17 +1237,89 @@
 			},
 			"expanded_folders":
 			[
-				"/home/almazka/workspace/site.com",
-				"/home/almazka/workspace/site.com/Jquery",
-				"/home/almazka/workspace/site.com/sass",
-				"/home/almazka/workspace/site.com/slider",
-				"/home/almazka/workspace/site.com/wp"
+				"/home/almazka/workspace/nexus-site"
 			],
 			"file_history":
 			[
-				"/home/almazka/workspace/almazka-master.ru/index.php",
-				"/home/almazka/.config/sublime-text-3/Packages/User/Fetch.sublime-settings",
+				"/home/almazka/workspace/nexus.loc/wp-config.php",
+				"/home/almazka/workspace/nexus-site-removeit/wp-content/themes/barrister-child/style.css",
+				"/home/almazka/workspace/nexus-site/wp-content/themes/barrister-child/style.css",
+				"/home/almazka/workspace/nexus-site/db.sql",
+				"/home/almazka/workspace/nexus-site/wp-config.php",
+				"/home/almazka/workspace/nexus-site/nexus-site.sql",
+				"/home/almazka/workspace/nexus/wp-config.php",
+				"/home/almazka/workspace/nexus.loc/index.php",
+				"/home/almazka/workspace/nexus/index.php",
+				"/home/almazka/Загрузки/wordpress/readme.html",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/functions.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/gallery-filter/css/prettyPhoto.css",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/js/scripts.js",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/gallery-filter/js/scripts.js",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/filter-gallery-widget/filter-gallery-widget.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/posts-view-widget/posts-view-widget.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/filter-gallery/filter-gallery-widget",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/sidebar.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/posts-view-widget/readme.txt",
+				"/home/almazka/workspace/site.com/wp/wp.html",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/index.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/products-page.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/footer.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/custom-type-custom-fields/readme.txt",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/custom-post-type-ui/readme.txt",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/widget-creator/widget-creator.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/widget-creator/readme.txt",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/superpage/CTCF.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/superpage/readme.txt",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/superpage/superpage.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/superpage/settings.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/advanced-custom-fields/readme.txt",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/advanced-custom-fields/README.md",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/advanced-recent-posts-widget/advanced-recent-posts-widget.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/style.css",
+				"/home/almazka/workspace/intent.ru/wp-includes/default-widgets.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/advanced-recent-posts-widget/includes/advanced-recent-posts-widget-display.php",
+				"/home/almazka/.config/sublime-text-3/Packages/User/ptint_r_pre.sublime-snippet",
+				"/home/almazka/.config/sublime-text-3/Packages/User/extract().sublime-snippet",
+				"/home/almazka/.config/sublime-text-3/Packages/User/new_big_array.sublime-snippet",
+				"/home/almazka/.config/sublime-text-3/Packages/User/instanse().sublime-snippet",
+				"/home/almazka/.config/sublime-text-3/Packages/User/new_array.sublime-snippet",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/style.scss",
+				"/media/almazka/473266243354C9F6/добавить в файл wp.php",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/js/scripts.js",
 				"/home/almazka/workspace/mix-it-up/js/toscripts.js",
+				"/home/almazka/workspace/almazka-master.ru/index.php",
+				"/home/almazka/workspace/intent.ru/wp-config.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/page-blog.php",
+				"/home/almazka/workspace/intent.ru/wp-content/plugins/advanced-custom-fields/core/api.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/header.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/blog.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/contact.php",
+				"/home/almazka/workspace/intent.ru/wp-content/themes/intent/portfolio.php",
+				"/home/almazka/workspace/almazka_project/Intent/index.html",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/mediaqueries.scss",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/mediaqueries.css",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/mediaqueries.sass",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/style.css",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/sidebar.php",
+				"/home/almazka/.config/sublime-text-3/Packages/User/Fetch.sublime-settings",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/config.rb",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/functions.php",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/sass/style.scss",
+				"/home/almazka/workspace/almazka-master.ru/wp-config.php",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/img/bg-header.png",
+				"/home/almazka/workspace/personalhomepage/.htaccess",
+				"/home/almazka/workspace/personalhomepage/index.html",
+				"/home/almazka/workspace/personalhomepage/index.php",
+				"/home/almazka/Загрузки/almazka-master.sql",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/index.php",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/header.php",
+				"/home/almazka/234.php",
+				"/home/almazka/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/new/index.php",
+				"/home/almazka/workspace/almazka-master.ru/wp-content/themes/new/config.rb",
+				"/home/almazka/workspace/almazka-master.ru/sass/style.scss",
+				"/home/almazka/workspace/my-wp/wp-content/themes/new/index.html",
+				"/etc/apache2/apache2.conf",
 				"/home/almazka/workspace/slick/sass/slick-theme.scss",
 				"/home/almazka/workspace/site.com/js/find-str.php"
 			],
@@ -817,9 +1329,18 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 104.0,
 				"where_history":
 				[
+					"<current file>",
+					"/home/almazka/workspace/intent.ru/wp-content/themes/intent/",
+					"<current file>",
+					"/home/almazka/workspace/intent.ru/",
+					"<current file>",
+					"/home/almazka/workspace/almazka-master.ru/wp-content/themes/almazka-master/",
+					"<current file>",
+					"/home/almazka/workspace/almazka-master.ru",
+					"<current file>"
 				]
 			},
 			"find_state":
@@ -827,28 +1348,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"parent",
-					"siblings",
-					"split",
-					"фильтр",
-					"кроме",
-					"add",
-					"create",
-					"созда",
-					"each",
-					"foreach",
-					"mousee",
-					"chil",
-					"кодиро",
-					"ul",
-					"строк",
-					"найт",
-					"поиск",
-					"ul",
-					"transi",
-					"шрифт",
-					"спис",
-					"li"
+					"nexus.loc",
+					"bergamot.a2test.com",
+					"brisskylinev3",
+					"briss",
+					"http://bergamot.a2test.com",
+					"http://",
+					"http",
+					"bergamot",
+					"http://bergamot.a2test.com",
+					"http",
+					"http:",
+					"/home",
+					"home/",
+					"home",
+					"register_setting",
+					"settings_setting",
+					"settings_section",
+					"settings_sections",
+					"do_",
+					"get_option",
+					"register_set",
+					"RE",
+					"<body",
+					"Опции га",
+					"gf_option_group",
+					"register_setting",
+					"Products",
+					"products",
+					"Products",
+					"pvw",
+					"<? echo",
+					"<?=",
+					"jquery",
+					"array",
+					"excerpt",
+					"Advanced Recent Posts Widget",
+					"Widget Post Creator Widget",
+					"Advanced Recent Posts ",
+					"render_sppage_settings_page",
+					"sppage",
+					"sppa",
+					"sppage",
+					"заголово",
+					"enqueue",
+					"slick",
+					"js/slick",
+					"js/",
+					"js",
+					" 'js",
+					"'js",
+					"<pre>",
+					"pre>",
+					"excerpt",
+					"accordion",
+					"get_the_excerpt",
+					"excerpt_readmore",
+					"get_the_excerpt",
+					"excerpt",
+					"get_the_excerpt",
+					"excerpt",
+					"$new_excerpt_length",
+					"count",
+					"the_permalink",
+					"sizethumb",
+					"custom_query_posts",
+					"setup_postdata",
+					"widgettitle",
+					"type",
+					"title",
+					"dropdown",
+					"type",
+					"title",
+					"post",
+					"title",
+					"cat",
+					"get_categories",
+					"o",
+					"get_categories",
+					"categories",
+					"popular",
+					"wi",
+					"div",
+					"gallery-are",
+					"#353535",
+					"extra_fields_box_page_func",
+					"color",
+					"check",
+					"function the_field",
+					"acf_register_field_group",
+					"function register_field_group",
+					";\n",
+					"')\n",
+					"src=\"img/",
+					"href=\"img/",
+					"url(../",
+					"url(\"../",
+					"<img",
+					"small",
+					"roboto",
+					"div",
+					"footer",
+					"filter",
+					"navbar",
+					"navbar-",
+					"%;",
+					"descr",
+					"navbar",
+					"media",
+					"#FFF",
+					"contai",
+					"adaptive",
+					"item",
+					"p",
+					"btn",
+					":hover",
+					"btn",
+					"mail",
+					"div",
+					"container",
+					"class=\"wrap\"",
+					"wrap",
+					"container",
+					"wrap",
+					"media",
+					"rgba",
+					"span",
+					"pink",
+					"rgba"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -856,6 +1483,27 @@
 				"regex": false,
 				"replace_history":
 				[
+					"nexus-site",
+					"nexus.loc",
+					"http://nexus.loc",
+					"http://nexus-site",
+					"Custom Type Custom Fields",
+					"Posts view Widget",
+					"Widget Post Creator ",
+					"$darkGrey",
+					"src=\"http://intent.ru/wp-content/themes/intent/img/",
+					"href=\"http://intent.ru/wp-content/themes/intent/img/",
+					"url(./",
+					"url(\"./",
+					"class=\"container\"",
+					"container",
+					"img/",
+					"/img/",
+					"<?php bloginfo('template_url') ?>/img/",
+					"./img",
+					"<?php bloginfo('template_url') ?>/img",
+					"/img",
+					"<?php bloginfo('template_url') ?>/img"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -866,53 +1514,67 @@
 			"groups":
 			[
 				{
-					"selected": 4,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/home/almazka/workspace/site.com/sass/typical.scss",
+							"file": "/home/almazka/Загрузки/bergamot.sql",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 7076,
+								"buffer_size": 2074880,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2811,
-										2811
+										2031697,
+										2031697
 									]
 								],
 								"settings":
 								{
 									"BracketHighlighterBusy": false,
 									"apply_syntax_touched": true,
-									"auto_indent": true,
 									"bh_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
@@ -923,331 +1585,56 @@
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
-									"expand_region_settings": "{\"stack\": [{\"start\": 1240, \"end\": 1242}, {\"start\": 1236, \"end\": 1242}], \"hash\": \"a52ac9edd517025ff5ff7562729929bd\"}",
-									"is_xml": false,
-									"syntax": "Packages/CSS/CSS.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 2248.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/almazka/workspace/site.com/Jquery/myjquery.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 35391,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										13614,
-										13620
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"apply_syntax_touched": true,
-									"bh_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
+										"bh_default_content"
 									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/SQL/SQL.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 6048.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/almazka/workspace/site.com/js/js.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 77633,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										62084,
-										62084
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"apply_syntax_touched": true,
-									"bh_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 2034.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/almazka/workspace/site.com/wp/wp.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 13127,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										169,
-										169
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"apply_syntax_touched": true,
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
-									"is_xml": false,
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 395298.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 4,
-							"file": "/etc/apache2/apache2.conf",
-							"semi_transient": false,
+							"buffer": 1,
+							"file": "/home/almazka/workspace/nexus-site/wp-config.php",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 7472,
+								"buffer_size": 4650,
 								"regions":
 								{
+									"TagLint":
+									{
+										"flags": 2356,
+										"icon": "dot",
+										"regions":
+										[
+											[
+												3759,
+												3765
+											]
+										],
+										"scope": "variable.parameter"
+									}
 								},
 								"selection":
 								[
 									[
-										7368,
-										7368
+										961,
+										961
 									]
 								],
 								"settings":
@@ -1256,116 +1643,41 @@
 									"apply_syntax_touched": true,
 									"bh_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 3726.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/home/almazka/workspace/site.com/css/css.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 27396,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										21477,
-										21481
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"apply_syntax_touched": true,
-									"auto_indent": true,
-									"bh_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
@@ -1376,41 +1688,26 @@
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
 									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/brogrammer.tmTheme",
-									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"is_xml": false,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 13302.0,
+								"translation.y": 378.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -1451,9 +1748,13 @@
 			{
 				"height": 0.0
 			},
+			"output.git":
+			{
+				"height": 116.0
+			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,0,0,1366,768",
-			"project": "site.com.sublime-project",
+			"position": "0,1,0,0,0,607,123,1247,603,1366,768",
+			"project": "nexus-site.sublime-project",
 			"replace":
 			{
 				"height": 48.0
@@ -1476,7 +1777,27 @@
 				[
 					[
 						"",
-						"~/workspace/projects/portfolio.sublime-project"
+						"~/workspace/projects/untent-site.sublime-project"
+					],
+					[
+						"i",
+						"~/workspace/projects/intent.sublime-project"
+					],
+					[
+						"ne",
+						"~/workspace/projects/nexus.sublime-project"
+					],
+					[
+						"al",
+						"~/workspace/projects/almazka-master.sublime-project"
+					],
+					[
+						"wp",
+						"~/workspace/projects/new-wp.sublime-project"
+					],
+					[
+						"a",
+						"~/workspace/projects/adaptive.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -1498,27 +1819,38 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 241.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
-			"workspace_name": "/home/almazka/workspace/projects/site.com.sublime-workspace"
+			"window_id": 31,
+			"workspace_name": "/home/almazka/workspace/projects/nexus-site.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/home/almazka/workspace/projects/nexus-site.sublime-workspace",
+			"/home/almazka/workspace/projects/untent-site.sublime-workspace",
+			"/home/almazka/workspace/projects/nexus.sublime-workspace",
+			"/home/almazka/workspace/projects/intent.sublime-workspace",
 			"/home/almazka/workspace/projects/site.com.sublime-workspace",
+			"/home/almazka/workspace/projects/almazka-master.sublime-workspace",
+			"/home/almazka/workspace/projects/display.sublime-workspace",
+			"/home/almazka/workspace/projects/vkpb.sublime-workspace",
+			"/home/almazka/workspace/projects/superpage.sublime-workspace",
+			"/home/almazka/workspace/projects/a2design.sublime-workspace",
+			"/home/almazka/workspace/projects/portal_ui.sublime-workspace",
+			"/home/almazka/workspace/projects/new-wp.sublime-workspace",
+			"/home/almazka/workspace/projects/specialist.sublime-workspace",
+			"/home/almazka/workspace/projects/untitled.sublime-workspace",
+			"/home/almazka/workspace/projects/sass.sublime-workspace",
+			"/home/almazka/workspace/projects/adaptive.sublime-workspace",
 			"/home/almazka/workspace/projects/portfolio.sublime-workspace",
 			"/home/almazka/workspace/projects/pretty-gallery.sublime-workspace",
 			"/home/almazka/workspace/projects/filter-block.sublime-workspace",
-			"/home/almazka/workspace/projects/sass.sublime-workspace",
-			"/home/almazka/workspace/projects/portal_ui.sublime-workspace",
-			"/home/almazka/workspace/projects/display.sublime-workspace",
-			"/home/almazka/workspace/projects/intent.sublime-workspace",
 			"/home/almazka/workspace/projects/gallery.sublime-workspace",
 			"/home/almazka/workspace/projects/slick.sublime-workspace",
 			"/home/almazka/workspace/projects/eazytooltip.sublime-workspace",
